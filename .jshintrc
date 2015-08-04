@@ -1,0 +1,22 @@
+{
+  "lastsemic": true,
+  "boss":      true,
+  "browser":   true,
+  "devel":     true,
+  "jquery":    true,
+  "globals": {        
+    "angular": true
+  },
+  "unused":    true,
+  "nonbsp":    true,
+  "curly":     true,
+  "strict":    true,
+  "forin":     true,
+  "newcap":    false, 
+  "eqeqeq":    true,
+  "undef":     true,
+  "freeze":    true,
+  "maxdepth":  3,   
+  "maxstatements": 15,
+  "maxcomplexity": 6 
+}

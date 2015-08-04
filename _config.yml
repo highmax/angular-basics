@@ -1,0 +1,7 @@
+name: Project name
+baseurl: "/"
+url: "localhost:3000"
+description: Example description
+exclude: ["node_modules", "gulpfile.js", "package.json", "assets/bower_components/**/*.hbs", "scripts/src"]
+source: src
+destination: _site
