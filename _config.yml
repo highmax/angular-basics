@@ -1,5 +1,5 @@
 name: Project name
-baseurl: "/"
+baseurl: ""
 url: "localhost:3000"
 description: Example description
 exclude: ["node_modules", "gulpfile.js", "package.json", "assets/bower_components/**/*.hbs", "scripts/src"]
